@@ -1,0 +1,10 @@
+#tracked frame size								ground truth size						Euclidean Distance
+#x  y  width  height 
+108	64	63	47		center (139.5,87.5) 		113	66	78	61      center (152,96.5)	root(156.25 + 81) = root(237.25) = 15.40
+109	64	62	47      center (140,87.5)			114	69	76	61		center (152,99.5)	root(144 + 144) = root(288) = 16.97
+185 62  49  36		center (209.5,80)			195	63	63	49		center (226.5,87.5) root(289 + 56.25) = 18.58
+207 72  49  35		center (231.5,89.5)			225	73	55	48		center (252.5,97)   root(441 + 56.25) = 22.29
+214 66  48  35		center (238,83.5)			223	70	65	48      center (255.5,94)   root(306.25 + 110.25) = 20.40
+219 62  64  57		center (251,90.5)			227	64	82	63		center (268,95.5)   root(289,25) = 17.72
+
+																							Average = 18.56
